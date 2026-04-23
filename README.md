@@ -2,6 +2,12 @@
 
 A desktop app for extracting text from images — fully offline. Supports both **printed** and **handwritten** text.
 
+## Download
+
+**[⬇ Download Offline_OCR.zip](https://github.com/karljuderojas/Offline_OCR/raw/main/Offline_OCR.zip)**
+
+Extract the zip and follow the [Installation](#installation) steps below.
+
 ## Features
 
 - **Printed text** — fast extraction via [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
