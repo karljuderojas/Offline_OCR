@@ -1,0 +1,9 @@
+pytesseract
+Pillow
+tkinterdnd2
+numpy
+transformers
+torch
+easyocr
+customtkinter
+pyspellchecker
